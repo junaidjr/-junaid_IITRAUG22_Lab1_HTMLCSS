@@ -15,4 +15,4 @@ c.	Position it in the centre of the page.
 a.	Use background image/video for the page and fix it
 b.	On focusing input tags change background color to steal blue with opacity 0.35
 c.	Add submit and reset buttons
-d.	Add border to the form
+d.	Add border to the form.
